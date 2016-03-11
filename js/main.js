@@ -18,4 +18,3 @@ $('ul li').each(function () {
     $newUl2.append($(this));
   }
 });
-
